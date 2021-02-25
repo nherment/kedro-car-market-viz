@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: kedro-car-market-viz
+Version: 0.0.1
+Summary: A library to view analysis of the sales information of cars
+Home-page: https://github.com/nherment/kedro-car-market-viz
+Author: Nicolas Herment
+Author-email: nicolas.herment@nearform.com
+License: Apache-2
+Description: UNKNOWN
+Keywords: kedro,visualization,cars
+Platform: UNKNOWN
